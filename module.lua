@@ -16,7 +16,7 @@ local DaHoodSettings = {
     AimLock = false,
     Prediction = 0.14,
     AimLockKeybind = Enum.KeyCode.E
-    }
+}
 getgenv().DaHoodSettings = DaHoodSettings
                             
                             
